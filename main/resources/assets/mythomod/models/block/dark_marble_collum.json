@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+    	"particle": "mythomod:blocks/dark_marble_collum",
+        "up": "mythomod:blocks/dark_marble_top_collum",
+        "down": "mythomod:blocks/dark_marble_top_collum",
+        "north": "mythomod:blocks/dark_marble_collum",
+        "south": "mythomod:blocks/dark_marble_collum",
+        "west": "mythomod:blocks/dark_marble_collum",
+        "east": "mythomod:blocks/dark_marble_collum"
+    }
+}
