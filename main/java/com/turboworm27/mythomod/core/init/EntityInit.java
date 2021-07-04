@@ -1,6 +1,6 @@
 package com.turboworm27.mythomod.core.init;
 
-import com.turboworm27.mythomod.core.Mythomod;
+import com.turboworm27.mythomod.Mythomod;
 import com.turboworm27.mythomod.core.entity.Unicorn;
 
 import net.minecraft.entity.EntityClassification;

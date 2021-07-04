@@ -1,0 +1,11 @@
+{
+  "entity.unicorn.death": {
+    "category" : "master",
+    "subtitle": "Unicorn Dies",
+    "sounds": [{
+        "name": "mythomod:entity/unicorn_death_1",
+        "stream":"true"
+      }
+    ]
+  }
+}

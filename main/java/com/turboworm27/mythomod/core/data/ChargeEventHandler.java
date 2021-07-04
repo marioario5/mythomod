@@ -1,6 +1,6 @@
 package com.turboworm27.mythomod.core.data;
 
-import com.turboworm27.mythomod.core.Mythomod;
+import com.turboworm27.mythomod.Mythomod;
 
 import net.minecraft.entity.CreatureEntity;
 import net.minecraft.entity.Entity;

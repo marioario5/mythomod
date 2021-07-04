@@ -6,7 +6,7 @@ import net.minecraft.util.ResourceLocation;
 
 import javax.annotation.Nullable;
 
-import com.turboworm27.mythomod.core.Mythomod;
+import com.turboworm27.mythomod.Mythomod;
 
 public class UnicornRenderer extends MobRenderer<Unicorn, UnicornModel> {
 

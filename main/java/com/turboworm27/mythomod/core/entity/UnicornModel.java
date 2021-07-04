@@ -15,7 +15,7 @@ public class UnicornModel extends EntityModel<Unicorn> {
         body.addBox(-3, 14, -3, 6, 6, 6);
     }
 
-    public void setupAnim(Unicorn Nymph, float v, float v1, float v2, float v3, float v4) {
+    public void setupAnim(Unicorn Unicorn, float v, float v1, float v2, float v3, float v4) {
 
     }
 

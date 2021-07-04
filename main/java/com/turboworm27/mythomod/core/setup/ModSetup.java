@@ -6,7 +6,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 
-import com.turboworm27.mythomod.core.Mythomod;
+import com.turboworm27.mythomod.Mythomod;
 import com.turboworm27.mythomod.core.data.CapabilityEntityCharge;
 import com.turboworm27.mythomod.core.data.ChargeEventHandler;
 import com.turboworm27.mythomod.core.entity.Unicorn;
